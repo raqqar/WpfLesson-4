@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLesson-4", "WpfLesson-4\WpfLesson-4.csproj", "{566F5D9B-C1B2-4D8F-983F-5BC94AA5D0C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566F5D9B-C1B2-4D8F-983F-5BC94AA5D0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566F5D9B-C1B2-4D8F-983F-5BC94AA5D0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566F5D9B-C1B2-4D8F-983F-5BC94AA5D0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566F5D9B-C1B2-4D8F-983F-5BC94AA5D0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68CE76D3-46A4-4A41-8B97-F6F0D15FCB17}
+	EndGlobalSection
+EndGlobal
